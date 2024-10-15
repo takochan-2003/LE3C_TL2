@@ -1,10 +1,10 @@
 #include "TextureConverter.h"
 #include <windows.h>
 
-//TextureConverter::TextureConverter() {
-//}
-//TextureConverter::~TextureConverter() {
-//}
+TextureConverter::TextureConverter() {
+}
+TextureConverter::~TextureConverter() {
+}
 
 
 void TextureConverter::ConverterTextureWICToDDS(const std::string& filePath) {
